@@ -2,10 +2,11 @@ from Dog import Dog, test_into
 import sys
 
 def my_print(msg):
-    a = "1"
+    a = "1" #
+    c = a + "h"
     # a = "2"
-    # b = 2 / 0
-    for i in range(1):
+    #b = 2 / 0
+    for i in range(2):
         print(a + msg)
     if a == "1":
         dog = Dog()

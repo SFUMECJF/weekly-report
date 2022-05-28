@@ -1,4 +1,5 @@
 ## 使用IDEA系列软件debug的全面技巧
+分享会长期链接：https://meeting.tencent.com/dm/Qet4sVXmOccd
 每个人都会debug，所以该主题足够**普适。**但大家对各种语言的ide的熟悉程度也不一样, 也不一定能够使用好所有的功能，不同语言的ide提供的debug功能也不尽相同。
 
 笔者最熟悉python，所以以pycharm为例，不管在什么地方，jet brains的ide都不会让你失望。
@@ -101,9 +102,31 @@ pycharm快捷键：
 
 ## 演示代码
 
+https://github.com/SFUMECJF/weekly-report/tree/main/week2/codes
+
+## 找到组织
+
+在论坛页面。
+
 
 
 ## 问卷
+
+希望大家能对本次分享会给个建议，链接或者扫码~
+
+https://jinshuju.net/f/kok6NH
+
+<img src="https://sfigure.oss-cn-beijing.aliyuncs.com/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%88%86%E4%BA%AB%E4%BC%9A%E5%8F%8D%E9%A6%88_256.png" alt="第一次分享会反馈_256" style="zoom: 33%;" />
+
+
+
+## 视频录播
+
+bilibili : https://www.bilibili.com/video/BV1ct4y1s72a/
+
+
+
+
 
 
 
